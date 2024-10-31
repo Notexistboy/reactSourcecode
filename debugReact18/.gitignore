@@ -1,0 +1,5 @@
+node_modules/
+react-/
+react18/
+
+.yarn/*
